@@ -1,13 +1,25 @@
-# React Vite Vorlage
+# React-Vite-Vorlage
+
+Dies ist eine Vorlage für ein React-Projekt, das mit Vite eingerichtet ist.
+
+## Voraussetzungen
+
+Bevor du beginnst, stelle sicher, dass du die folgenden Programme installiert hast:
+
+- [Node.js](https://nodejs.org/)
 
 ## Installation
 
-1. Repository klonen
-''' bash
-git clone <Repository-URL>
+```bash
+# 1. Repository klonen
+git clone https://github.com/Flaviozettel/react-vite-vorlage.git
 
-2. npm install
+# 2. Ins Projektverzeichnis wechseln
+cd react-vite-vorlage
 
-3. npm run dev
+# 3. Abhängigkeiten installieren
+npm install
 
-4. Ersetze Repository-URL mit künftigen GitHub Repository-URL
+# 4. Entwicklungsserver starten
+npm run dev
+```
