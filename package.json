@@ -1,9 +1,9 @@
 {
-  "name": "template-react",
+  "name": "react-vite-vorlage",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
+  "scripSts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
